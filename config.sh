@@ -1,7 +1,7 @@
 #!/bin/bash
 
-GITHUB_USER=Akianonymus
-GITHUB_EMAIL=anonymus.aki@gmail.com
+GITHUB_USER=vnxrgb
+GITHUB_EMAIL=vedang533@gmail.com
 
 KBUILD_BUILD_USER="Aki"
 KBUILD_BUILD_HOST="A_DEAD_PLANET"
