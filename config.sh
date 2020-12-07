@@ -3,11 +3,11 @@
 GITHUB_USER=vnxrgb
 GITHUB_EMAIL=vedang533@gmail.com
 
-KBUILD_BUILD_USER="Aki"
-KBUILD_BUILD_HOST="A_DEAD_PLANET"
+KBUILD_BUILD_USER="Phoenix"
+KBUILD_BUILD_HOST="enola"
 
-export oem=motorola
-export device=harpia
+export oem=xiaomi 
+export device=pheonix
 
 ROM="PixelExperience"
 manifest_url="https://github.com/PixelExperience/manifest"
